@@ -1,0 +1,2 @@
+pyinstaller --paths="C:\Users\timmo\AppData\Local\Programs\Python\Python311\Lib\site-packages" --add-data "C:\Users\timmo\Desktop\Low_Battery_warner\Low_Battery_warner\Images;Images" --noconsole LowBatteryWarnerApp.py
+pause
